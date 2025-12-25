@@ -1,0 +1,28 @@
+{
+  "id": "module-4/capstone-autonomous-humanoid",
+  "title": "Capstone: The Autonomous Humanoid",
+  "description": "Integrating all VLA components into a complete autonomous humanoid system",
+  "source": "@site/docs/module-4/capstone-autonomous-humanoid.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/capstone-autonomous-humanoid",
+  "permalink": "/docs/module-4/capstone-autonomous-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-4/capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Capstone: The Autonomous Humanoid",
+    "sidebar_position": 4,
+    "description": "Integrating all VLA components into a complete autonomous humanoid system"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cognitive Planning with LLMs and ROS 2",
+    "permalink": "/docs/module-4/cognitive-planning-llms-ros2"
+  }
+}

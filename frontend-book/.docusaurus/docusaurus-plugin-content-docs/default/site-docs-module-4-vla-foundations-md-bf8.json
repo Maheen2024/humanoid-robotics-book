@@ -1,0 +1,32 @@
+{
+  "id": "module-4/vla-foundations",
+  "title": "Vision-Language-Action Foundations",
+  "description": "Understanding the fundamental concepts of Vision-Language-Action (VLA) systems for humanoid robots",
+  "source": "@site/docs/module-4/vla-foundations.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/vla-foundations",
+  "permalink": "/docs/module-4/vla-foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-4/vla-foundations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Vision-Language-Action Foundations",
+    "sidebar_position": 1,
+    "description": "Understanding the fundamental concepts of Vision-Language-Action (VLA) systems for humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation & Path Planning with Nav2",
+    "permalink": "/docs/module-3/navigation-path-planning-nav2"
+  },
+  "next": {
+    "title": "Voice-to-Action with Speech Models",
+    "permalink": "/docs/module-4/voice-to-action-speech-models"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/intro-to-ros2",
+              "path": "/docs/module-1/intro-to-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/ros2-communication",
+              "path": "/docs/module-1/ros2-communication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/urdf-modeling",
+              "path": "/docs/module-1/urdf-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/digital-twins-overview",
+              "path": "/docs/module-2/digital-twins-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/gazebo-physics-sim",
+              "path": "/docs/module-2/gazebo-physics-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/unity-high-fidelity",
+              "path": "/docs/module-2/unity-high-fidelity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/navigation-path-planning-nav2",
+              "path": "/docs/module-3/navigation-path-planning-nav2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/nvidia-isaac-overview",
+              "path": "/docs/module-3/nvidia-isaac-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/perception-vslam-isaac-ros",
+              "path": "/docs/module-3/perception-vslam-isaac-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/capstone-autonomous-humanoid",
+              "path": "/docs/module-4/capstone-autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/cognitive-planning-llms-ros2",
+              "path": "/docs/module-4/cognitive-planning-llms-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/vla-foundations",
+              "path": "/docs/module-4/vla-foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/voice-to-action-speech-models",
+              "path": "/docs/module-4/voice-to-action-speech-models",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

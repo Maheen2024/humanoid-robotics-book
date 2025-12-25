@@ -1,0 +1,32 @@
+{
+  "id": "module-2/unity-high-fidelity",
+  "title": "High-Fidelity Interaction with Unity",
+  "description": "Understanding photorealistic rendering and human-robot interaction simulation with Unity",
+  "source": "@site/docs/module-2/unity-high-fidelity.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/unity-high-fidelity",
+  "permalink": "/docs/module-2/unity-high-fidelity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-2/unity-high-fidelity.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "High-Fidelity Interaction with Unity",
+    "sidebar_position": 3,
+    "description": "Understanding photorealistic rendering and human-robot interaction simulation with Unity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2/gazebo-physics-sim"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Overview",
+    "permalink": "/docs/module-3/nvidia-isaac-overview"
+  }
+}

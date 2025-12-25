@@ -1,0 +1,8 @@
+{
+  "label": "Module 1: The Robotic Nervous System",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "module-1/intro-to-ros2"
+  }
+}

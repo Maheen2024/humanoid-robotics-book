@@ -1,0 +1,32 @@
+{
+  "id": "module-4/voice-to-action-speech-models",
+  "title": "Voice-to-Action with Speech Models",
+  "description": "Understanding speech recognition and natural language processing for robotic action execution",
+  "source": "@site/docs/module-4/voice-to-action-speech-models.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/voice-to-action-speech-models",
+  "permalink": "/docs/module-4/voice-to-action-speech-models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-4/voice-to-action-speech-models.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Voice-to-Action with Speech Models",
+    "sidebar_position": 2,
+    "description": "Understanding speech recognition and natural language processing for robotic action execution"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action Foundations",
+    "permalink": "/docs/module-4/vla-foundations"
+  },
+  "next": {
+    "title": "Cognitive Planning with LLMs and ROS 2",
+    "permalink": "/docs/module-4/cognitive-planning-llms-ros2"
+  }
+}

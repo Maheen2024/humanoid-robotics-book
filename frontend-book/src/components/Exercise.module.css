@@ -1,0 +1,32 @@
+.exercise {
+  border: 2px solid #4caf50;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #f9f9f9;
+}
+
+.title {
+  margin-top: 0;
+  color: #2e7d32;
+  font-size: 1.2rem;
+}
+
+.knowledgeCheck {
+  border-color: #2196f3;
+  background-color: #e3f2fd;
+}
+
+.handsOn {
+  border-color: #ff9800;
+  background-color: #fff3e0;
+}
+
+.reflection {
+  border-color: #9c27b0;
+  background-color: #f3e5f5;
+}
+
+.content {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,27 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI and Humanoid Robotics",
+  "description": "Welcome to the educational module on Physical AI and Humanoid Robotics. This module is designed for AI students and developers transitioning into Physical AI and Humanoid Robotics.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Physical AI and Humanoid Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction to ROS 2 for Physical AI",
+    "permalink": "/docs/module-1/intro-to-ros2"
+  }
+}

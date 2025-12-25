@@ -1,0 +1,32 @@
+{
+  "id": "module-2/gazebo-physics-sim",
+  "title": "Physics Simulation with Gazebo",
+  "description": "Understanding physics simulation fundamentals using Gazebo for robotics",
+  "source": "@site/docs/module-2/gazebo-physics-sim.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/gazebo-physics-sim",
+  "permalink": "/docs/module-2/gazebo-physics-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-2/gazebo-physics-sim.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Physics Simulation with Gazebo",
+    "sidebar_position": 2,
+    "description": "Understanding physics simulation fundamentals using Gazebo for robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Digital Twins for Physical AI",
+    "permalink": "/docs/module-2/digital-twins-overview"
+  },
+  "next": {
+    "title": "High-Fidelity Interaction with Unity",
+    "permalink": "/docs/module-2/unity-high-fidelity"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "module-4/cognitive-planning-llms-ros2",
+  "title": "Cognitive Planning with LLMs and ROS 2",
+  "description": "Understanding how Large Language Models integrate with ROS 2 for high-level task planning",
+  "source": "@site/docs/module-4/cognitive-planning-llms-ros2.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/cognitive-planning-llms-ros2",
+  "permalink": "/docs/module-4/cognitive-planning-llms-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-4/cognitive-planning-llms-ros2.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cognitive Planning with LLMs and ROS 2",
+    "sidebar_position": 3,
+    "description": "Understanding how Large Language Models integrate with ROS 2 for high-level task planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action with Speech Models",
+    "permalink": "/docs/module-4/voice-to-action-speech-models"
+  },
+  "next": {
+    "title": "Capstone: The Autonomous Humanoid",
+    "permalink": "/docs/module-4/capstone-autonomous-humanoid"
+  }
+}

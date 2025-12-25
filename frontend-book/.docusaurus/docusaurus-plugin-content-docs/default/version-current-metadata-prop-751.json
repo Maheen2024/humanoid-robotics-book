@@ -1,0 +1,230 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction to Physical AI and Humanoid Robotics",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: The Robotic Nervous System",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to ROS 2 for Physical AI",
+            "href": "/docs/module-1/intro-to-ros2",
+            "docId": "module-1/intro-to-ros2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Communication Primitives",
+            "href": "/docs/module-1/ros2-communication",
+            "docId": "module-1/ros2-communication",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Robot Modeling with URDF",
+            "href": "/docs/module-1/urdf-modeling",
+            "docId": "module-1/urdf-modeling",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 2: The Digital Twin",
+        "items": [
+          {
+            "type": "link",
+            "label": "Digital Twins for Physical AI",
+            "href": "/docs/module-2/digital-twins-overview",
+            "docId": "module-2/digital-twins-overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Physics Simulation with Gazebo",
+            "href": "/docs/module-2/gazebo-physics-sim",
+            "docId": "module-2/gazebo-physics-sim",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "High-Fidelity Interaction with Unity",
+            "href": "/docs/module-2/unity-high-fidelity",
+            "docId": "module-2/unity-high-fidelity",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+        "items": [
+          {
+            "type": "link",
+            "label": "NVIDIA Isaac Overview",
+            "href": "/docs/module-3/nvidia-isaac-overview",
+            "docId": "module-3/nvidia-isaac-overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Perception & VSLAM with Isaac ROS",
+            "href": "/docs/module-3/perception-vslam-isaac-ros",
+            "docId": "module-3/perception-vslam-isaac-ros",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Navigation & Path Planning with Nav2",
+            "href": "/docs/module-3/navigation-path-planning-nav2",
+            "docId": "module-3/navigation-path-planning-nav2",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Vision-Language-Action Foundations",
+            "href": "/docs/module-4/vla-foundations",
+            "docId": "module-4/vla-foundations",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Voice-to-Action with Speech Models",
+            "href": "/docs/module-4/voice-to-action-speech-models",
+            "docId": "module-4/voice-to-action-speech-models",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Cognitive Planning with LLMs and ROS 2",
+            "href": "/docs/module-4/cognitive-planning-llms-ros2",
+            "docId": "module-4/cognitive-planning-llms-ros2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Capstone: The Autonomous Humanoid",
+            "href": "/docs/module-4/capstone-autonomous-humanoid",
+            "docId": "module-4/capstone-autonomous-humanoid",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to Physical AI and Humanoid Robotics",
+      "description": "Welcome to the educational module on Physical AI and Humanoid Robotics. This module is designed for AI students and developers transitioning into Physical AI and Humanoid Robotics.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/intro-to-ros2": {
+      "id": "module-1/intro-to-ros2",
+      "title": "Introduction to ROS 2 for Physical AI",
+      "description": "What ROS 2 is and why it is critical for humanoid robots",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/ros2-communication": {
+      "id": "module-1/ros2-communication",
+      "title": "ROS 2 Communication Primitives",
+      "description": "Understanding Nodes, Topics, Services, and Actions in ROS 2",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/urdf-modeling": {
+      "id": "module-1/urdf-modeling",
+      "title": "Robot Modeling with URDF",
+      "description": "Understanding URDF in humanoid robotics for links, joints, and kinematic chains",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/digital-twins-overview": {
+      "id": "module-2/digital-twins-overview",
+      "title": "Digital Twins for Physical AI",
+      "description": "Understanding digital twins and their role in humanoid robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/gazebo-physics-sim": {
+      "id": "module-2/gazebo-physics-sim",
+      "title": "Physics Simulation with Gazebo",
+      "description": "Understanding physics simulation fundamentals using Gazebo for robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/unity-high-fidelity": {
+      "id": "module-2/unity-high-fidelity",
+      "title": "High-Fidelity Interaction with Unity",
+      "description": "Understanding photorealistic rendering and human-robot interaction simulation with Unity",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/navigation-path-planning-nav2": {
+      "id": "module-3/navigation-path-planning-nav2",
+      "title": "Navigation & Path Planning with Nav2",
+      "description": "Understanding navigation and path planning with Nav2 integrated in the NVIDIA Isaac ecosystem",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/nvidia-isaac-overview": {
+      "id": "module-3/nvidia-isaac-overview",
+      "title": "NVIDIA Isaac Overview",
+      "description": "Understanding NVIDIA Isaac as the AI brain for humanoid robots",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/perception-vslam-isaac-ros": {
+      "id": "module-3/perception-vslam-isaac-ros",
+      "title": "Perception & VSLAM with Isaac ROS",
+      "description": "Understanding Visual Simultaneous Localization and Mapping with Isaac ROS for humanoid robot perception",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/capstone-autonomous-humanoid": {
+      "id": "module-4/capstone-autonomous-humanoid",
+      "title": "Capstone: The Autonomous Humanoid",
+      "description": "Integrating all VLA components into a complete autonomous humanoid system",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/cognitive-planning-llms-ros2": {
+      "id": "module-4/cognitive-planning-llms-ros2",
+      "title": "Cognitive Planning with LLMs and ROS 2",
+      "description": "Understanding how Large Language Models integrate with ROS 2 for high-level task planning",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/vla-foundations": {
+      "id": "module-4/vla-foundations",
+      "title": "Vision-Language-Action Foundations",
+      "description": "Understanding the fundamental concepts of Vision-Language-Action (VLA) systems for humanoid robots",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/voice-to-action-speech-models": {
+      "id": "module-4/voice-to-action-speech-models",
+      "title": "Voice-to-Action with Speech Models",
+      "description": "Understanding speech recognition and natural language processing for robotic action execution",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

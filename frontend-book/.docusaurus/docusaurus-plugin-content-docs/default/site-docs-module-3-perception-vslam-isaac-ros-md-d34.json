@@ -1,0 +1,32 @@
+{
+  "id": "module-3/perception-vslam-isaac-ros",
+  "title": "Perception & VSLAM with Isaac ROS",
+  "description": "Understanding Visual Simultaneous Localization and Mapping with Isaac ROS for humanoid robot perception",
+  "source": "@site/docs/module-3/perception-vslam-isaac-ros.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/perception-vslam-isaac-ros",
+  "permalink": "/docs/module-3/perception-vslam-isaac-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-3/perception-vslam-isaac-ros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Perception & VSLAM with Isaac ROS",
+    "sidebar_position": 2,
+    "description": "Understanding Visual Simultaneous Localization and Mapping with Isaac ROS for humanoid robot perception"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Overview",
+    "permalink": "/docs/module-3/nvidia-isaac-overview"
+  },
+  "next": {
+    "title": "Navigation & Path Planning with Nav2",
+    "permalink": "/docs/module-3/navigation-path-planning-nav2"
+  }
+}

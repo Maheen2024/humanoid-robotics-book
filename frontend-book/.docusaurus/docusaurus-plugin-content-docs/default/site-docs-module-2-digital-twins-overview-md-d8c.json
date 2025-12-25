@@ -1,0 +1,32 @@
+{
+  "id": "module-2/digital-twins-overview",
+  "title": "Digital Twins for Physical AI",
+  "description": "Understanding digital twins and their role in humanoid robotics",
+  "source": "@site/docs/module-2/digital-twins-overview.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/digital-twins-overview",
+  "permalink": "/docs/module-2/digital-twins-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-ai-humanoid-robotics-book/edit/main/frontend-book/docs/module-2/digital-twins-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Digital Twins for Physical AI",
+    "sidebar_position": 1,
+    "description": "Understanding digital twins and their role in humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Modeling with URDF",
+    "permalink": "/docs/module-1/urdf-modeling"
+  },
+  "next": {
+    "title": "Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2/gazebo-physics-sim"
+  }
+}

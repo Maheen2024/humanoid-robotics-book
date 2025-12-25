@@ -1,0 +1,8 @@
+{
+  "label": "Module 2: The Digital Twin",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Teach digital twin concepts by simulating humanoid robots and environments using Gazebo and Unity."
+  }
+}
