@@ -4,7 +4,7 @@
 
 // Default configuration values
 const DEFAULT_CONFIG = {
-  API_BASE_URL: 'http://localhost:8000',
+  API_BASE_URL: 'https://maheen-baig-deploy-book.hf.space',
   API_KEY: '',
   TIMEOUT_MS: 30000,
   RETRY_ATTEMPTS: 3,
